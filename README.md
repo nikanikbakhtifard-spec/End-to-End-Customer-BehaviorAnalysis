@@ -1,6 +1,5 @@
 # 📊 End-to-End Customer Behavior & Sales Data Analytics
 
-![Project Workflow](workflow.png)
 
 ## 📝 Project Overview
 This project demonstrates a complete Data Analytics Pipeline. From defining the business problem to data cleaning with Python, deep-dive analysis using SQL, and final visualization in Power BI. The goal is to transform raw data into actionable business insights.
